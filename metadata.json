@@ -1,0 +1,7 @@
+{
+  "name": "Thread Count Infinite",
+  "description": "Infinite combinations for outfits and possibilities. A modern digital wardrobe and outfit styling platform with AI-powered background removal and an interactive moodboard builder.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
